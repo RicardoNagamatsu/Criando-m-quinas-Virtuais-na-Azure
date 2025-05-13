@@ -1,2 +1,3 @@
-# Criando-m-quinas-Virtuais-na-Azure
+# Criando-maquinas-Virtuais-na-Azure
 Repositório para inserção de exercícios e anotações
+
